@@ -50,7 +50,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="27dp"
         android:layout_marginTop="470dp"
-        android:text="Edit my mobile number"
+        android:text="LOGOYT"
         android:textColor="#4c95f5" />
 
     <Button
