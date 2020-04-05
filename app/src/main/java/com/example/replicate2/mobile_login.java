@@ -30,7 +30,7 @@ public class mobile_login extends AppCompatActivity {
         btncircle.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (txtaddmobilenumber.getText().toString().equalsIgnoreCase("12345678")){
+                if (txtaddmobilenumber.getText().toString().equalsIgnoreCase("123456")){
                     Toast.makeText(mobile_login.this, "Login sukses", Toast.LENGTH_SHORT).show();
                     Intent in=new Intent(mobile_login.this, sms_code.class);
                     //bisa melempar nilai
